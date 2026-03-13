@@ -123,7 +123,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 
 3. Install Required Dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 The notebook can be reproduced by running:
 
