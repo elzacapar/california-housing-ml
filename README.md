@@ -112,8 +112,9 @@ Python 3.11.9
 To reproduce the analysis in this project, follow the steps below.
 
 1. Clone the Repository
+   git clone https://github.com/elzacapar/california-housing-ml.git
 
-2. Create a Virtual Environment
+3. Create a Virtual Environment
 - On Windows:
 python -m venv .venv
 .venv\Scripts\activate
